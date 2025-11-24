@@ -1,0 +1,18 @@
+{
+  "label_to_idx": {
+    "Affected individuals": 0,
+    "Donations and volunteering": 1,
+    "Infrastructure and utilities": 2,
+    "Not related or irrelevant": 3,
+    "Other Useful Information": 4,
+    "Sympathy and support": 5
+  },
+  "idx_to_label": {
+    "0": "Affected individuals",
+    "1": "Donations and volunteering",
+    "2": "Infrastructure and utilities",
+    "3": "Not related or irrelevant",
+    "4": "Other Useful Information",
+    "5": "Sympathy and support"
+  }
+}

@@ -1,0 +1,95 @@
+# RahatAI Configuration File
+# Edit this file to change model parameters, paths, and settings
+
+# Data Paths
+data:
+  crisisnlp_train: "Data/CrisisNLP/sample_prccd_train.csv"
+  crisisnlp_dev: "Data/CrisisNLP/sample_prccd_dev.csv"
+  crisisnlp_test: "Data/CrisisNLP/sample_prccd_test.csv"
+  humaid_train: "Data/HumAid/all_train.tsv"
+  humaid_dev: "Data/HumAid/all_dev.tsv"
+  humaid_test: "Data/HumAid/all_test.tsv"
+  
+# Model Paths
+models:
+  save_dir: "Models/"
+  checkpoint_dir: "Models/checkpoints/"
+  
+# Output Paths
+outputs:
+  results_dir: "Outputs/results/"
+  plots_dir: "Outputs/plots/"
+  predictions_dir: "Outputs/predictions/"
+
+# Classification Settings
+classification:
+  # ML Models
+  ml_models:
+    - "naive_bayes"
+    - "svm"
+  
+  # Deep Learning Models
+  dl_models:
+    - "lstm"
+    - "cnn"
+  
+  # Transformer Models
+  transformer_models:
+    - "xlm-roberta-base"
+  
+  # Training
+  batch_size: 32
+  epochs: 50
+  learning_rate: 0.001
+  max_length: 128
+  validation_split: 0.2
+  
+  # Evaluation Metrics
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+    - "auc"
+    - "exact_match"
+    - "top_k_accuracy"
+    - "confusion_matrix"
+
+# RAG Settings
+rag:
+  vector_store: "faiss"
+  embedding_model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  chunk_size: 512
+  chunk_overlap: 50
+  top_k: 5
+  llm_model: "gpt-3.5-turbo"  # or "llama-2-7b-chat" for open source
+  
+  # QA Dataset
+  qa_dataset_path: "Data/rag_qa_pairs.csv"
+  num_qa_pairs: 100
+
+# NER Settings
+ner:
+  model: "xlm-roberta-base"
+  languages: ["en", "ur", "roman_urdu"]
+  entities: ["location", "phone", "resource", "person", "organization"]
+
+# Summarization Settings
+summarization:
+  model: "facebook/bart-large-cnn"
+  max_length: 512
+  min_length: 50
+  num_beams: 4
+
+# Misinformation Detection
+misinformation:
+  model: "xlm-roberta-base"
+  threshold: 0.5
+
+# General Settings
+general:
+  random_seed: 42
+  device: "cuda"  # or "cpu"
+  num_workers: 4
+  verbose: true
+

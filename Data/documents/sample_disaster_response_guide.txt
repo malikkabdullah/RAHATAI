@@ -1,0 +1,171 @@
+DISASTER RESPONSE GUIDE - SAMPLE DOCUMENT
+
+This is a sample document for testing the RAG system. Replace this with actual disaster response documents.
+
+================================================================================
+EMERGENCY CONTACTS
+================================================================================
+
+National Emergency Services:
+- Emergency Helpline: 112
+- Fire Department: 16
+- Ambulance Service: 115
+- Police: 15
+
+Disaster Management Authorities:
+- NDMA (National Disaster Management Authority): 051-9205369
+- Provincial Disaster Management Authority: Contact local office
+
+Medical Emergencies:
+- Red Crescent: 111-140-140
+- Edhi Foundation: 115
+
+================================================================================
+FLOOD RESPONSE PROCEDURES
+================================================================================
+
+During Floods:
+1. Move to higher ground immediately
+2. Avoid walking or driving through floodwater
+3. Do not touch electrical equipment if wet
+4. Evacuate if instructed by authorities
+5. Contact emergency services: 112
+
+After Floods:
+1. Return home only when authorities say it's safe
+2. Check for structural damage
+3. Avoid contaminated water
+4. Use bottled or boiled water for drinking
+5. Report damage to local authorities
+
+Flood Shelters:
+- Temporary shelters are set up at community centers
+- Bring essential items: ID, medications, important documents
+- Food and water provided at shelters
+
+================================================================================
+EARTHQUAKE RESPONSE PROCEDURES
+================================================================================
+
+During Earthquake:
+1. DROP to the ground
+2. COVER your head and neck with your arms
+3. HOLD ON to sturdy furniture
+4. Stay away from windows, glass, and heavy objects
+5. If outdoors, move to an open area away from buildings
+
+After Earthquake:
+1. Check for injuries
+2. Evacuate building if there's structural damage
+3. Avoid damaged buildings
+4. Use stairs, not elevators
+5. Be prepared for aftershocks
+
+Earthquake Safety Zones:
+- Open fields away from buildings
+- Designated evacuation centers
+- Strong, reinforced buildings
+
+================================================================================
+RESOURCE ALLOCATION
+================================================================================
+
+Food Distribution:
+- Distribution centers in major cities
+- Priority given to affected families
+- Bring identification for verification
+- Distribution times: 9 AM - 5 PM
+
+Medical Aid:
+- Mobile medical units in affected areas
+- Hospitals on emergency alert
+- Free treatment for disaster victims
+- Medical supplies available at distribution points
+
+Shelter:
+- Temporary shelters at community centers
+- Schools and public buildings used as shelters
+- Bring your own bedding if possible
+- Food and basic amenities provided
+
+Water and Sanitation:
+- Water distribution points set up
+- Use only safe, treated water
+- Report water contamination
+- Sanitation facilities at shelters
+
+================================================================================
+EVACUATION PROCEDURES
+================================================================================
+
+When to Evacuate:
+- Official evacuation order issued
+- Immediate danger to life
+- Building is unsafe
+- Authorities recommend evacuation
+
+Evacuation Checklist:
+- Important documents (ID, insurance, etc.)
+- Medications and medical records
+- Emergency contact information
+- Cash and credit cards
+- Mobile phone and charger
+- Change of clothes
+- First aid kit
+
+Evacuation Routes:
+- Follow official evacuation routes
+- Avoid blocked or damaged roads
+- Use public transportation if available
+- Help elderly and disabled neighbors
+
+================================================================================
+COMMUNICATION DURING DISASTERS
+================================================================================
+
+Stay Informed:
+- Listen to official radio/TV broadcasts
+- Follow official social media accounts
+- Check government websites
+- Avoid spreading unverified information
+
+Report Emergencies:
+- Call 112 for immediate emergencies
+- Report damage to local authorities
+- Share accurate information only
+- Help coordinate rescue efforts
+
+================================================================================
+FIRST AID BASICS
+================================================================================
+
+Basic First Aid:
+- Stop bleeding: Apply pressure with clean cloth
+- Treat shock: Keep person calm and warm
+- CPR: Only if trained
+- Burns: Cool with water, don't use ice
+- Fractures: Immobilize, don't move unnecessarily
+
+Medical Emergencies:
+- Call 115 for ambulance
+- Provide clear location
+- Describe the emergency
+- Follow dispatcher instructions
+- Stay with injured person until help arrives
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+- Always follow official instructions
+- Do not spread rumors or unverified information
+- Help neighbors and community members
+- Keep emergency supplies ready
+- Stay calm and organized
+- Contact authorities for accurate information
+
+For more information, contact:
+- NDMA: www.ndma.gov.pk
+- Local disaster management office
+- Emergency services: 112
+

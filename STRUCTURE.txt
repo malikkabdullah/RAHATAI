@@ -1,0 +1,18 @@
+RAHATAI Project Structure
+=========================
+
+Main Files:
+- main.py              # Entry point - run all tasks
+- README.md            # Quick start guide
+- requirements.txt     # Dependencies
+
+Folders:
+- Scripts/             # Main code (models, evaluation, etc.)
+- Data/                # Datasets (raw and processed)
+- Models/              # Saved trained models
+- Outputs/             # Results, metrics, plots
+- RunScripts/          # Step-by-step training scripts
+- Docs/                # Documentation files
+- config/              # Configuration
+- Notebooks/           # Jupyter notebooks
+
